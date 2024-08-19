@@ -9,8 +9,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: config.title,
-  description: config.description,
+  title: "Meban",
+  description:
+    "Unlock the full potential of your brand in the digital landscape",
 };
 
 export default function RootLayout({
